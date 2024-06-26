@@ -1,0 +1,4 @@
+student name	student age	school name	matric marks	college name	fsc marks	ecat marks
+burhan	18	lggs	1017	kips	1080	163
+student name	student age	school name	matric marks	college name	fsc marks	ecat marks
+adbullah             	12       	jhfb      	121       	sfhvjb        	12345      	12345
